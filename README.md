@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=kabosu11941&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=kabosu11941&theme=warm"/>
+</p>
 
 <!--
 **kabosuMy3a/kabosumy3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
