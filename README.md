@@ -1,6 +1,5 @@
 <p align="center">
   [![solved](http://mazassumnida.wtf/api/v2/generate_badge?boj=kabosu11941)](https://solved.ac/kabosu11941)  
-  [![soloved_grass](http://mazandi.herokuapp.com/api?handle=kabosu11941&theme=warm)](http://solved.ac/kabosu11941)  
 </p>
 
 <!--
