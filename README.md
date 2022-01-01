@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=kabosu11941&theme=warm"/>
-  <img src="http://mazandi.herokuapp.com/api?handle=kabosu11941&theme=warm"/>
+  [![solved](http://mazassumnida.wtf/api/v2/generate_badge?boj=kabosu11941)](https://solved.ac/kabosu11941)
+  [![soloved_grass](http://mazandi.herokuapp.com/api?handle=kabosu11941&theme=warm)](http://solved.ac/kabosu11941)
 </p>
 
 <!--
