@@ -1,6 +1,5 @@
-<p align="center">
-  [![solved](http://mazassumnida.wtf/api/v2/generate_badge?boj=kabosu11941)](https://solved.ac/kabosu11941)  
-</p>
+[![solved](http://mazassumnida.wtf/api/v2/generate_badge?boj=kabosu11941)](https://solved.ac/kabosu11941)  
+
 
 <!--
 **kabosuMy3a/kabosumy3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
