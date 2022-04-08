@@ -7,6 +7,8 @@
 
 <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=Flutter&logoColor=FFFFFF"/>
 
+<img src="https://img.shields.io/badge/C++ for PS-black?style=flat"/>
+
 </div>
 
 <!--
