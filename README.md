@@ -3,6 +3,8 @@
 
 <img src="https://img.shields.io/badge/iOS-red?style=flat&logo=Apple&logoColor=FFFFFF"/>
 
+<img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=Flutter&logoColor=02569B"/>
+
 
 <!--
 **kabosuMy3a/kabosumy3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
