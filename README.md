@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/iOS-red?      style=flat&logo=Apple&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=Flutter&logoColor=02569B"/>
+<img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=Flutter&logoColor=FFFFFF"/>
 
 </div>
 
