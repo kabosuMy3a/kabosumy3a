@@ -1,7 +1,7 @@
 [![solved](http://mazassumnida.wtf/api/v2/generate_badge?boj=kabosu11941)](https://solved.ac/kabosu11941)  
 [![sov](http://mazandi.herokuapp.com/api?handle=kabosu11941&theme=warm)](https://www.acmicpc.net/user/kabosu11941)
 
-<img src="https://img.shields.io/badge/iOS-red?style=flat&logo=iOS&logoColor=000000"/>
+<img src="https://img.shields.io/badge/iOS-red?style=flat&logo=Apple&logoColor=FFFFFF"/>
 
 
 <!--
