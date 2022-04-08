@@ -1,10 +1,13 @@
 [![solved](http://mazassumnida.wtf/api/v2/generate_badge?boj=kabosu11941)](https://solved.ac/kabosu11941)  
 [![sov](http://mazandi.herokuapp.com/api?handle=kabosu11941&theme=warm)](https://www.acmicpc.net/user/kabosu11941)
 
-<img src="https://img.shields.io/badge/iOS-red?style=flat&logo=Apple&logoColor=FFFFFF"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=Flutter&logoColor=02569B"/>
+<img src="https://img.shields.io/badge/iOS-red?      style=flat&logo=Apple&logoColor=FFFFFF"/>
 
+<img src="https://img.shields.io/badge/Flutter-white?style=flat&logo=Flutter&logoColor=02569B"/>
+
+</div>
 
 <!--
 **kabosuMy3a/kabosumy3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
