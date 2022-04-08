@@ -1,11 +1,11 @@
 [![solved](http://mazassumnida.wtf/api/v2/generate_badge?boj=kabosu11941)](https://solved.ac/kabosu11941)  
 [![sov](http://mazandi.herokuapp.com/api?handle=kabosu11941&theme=warm)](https://www.acmicpc.net/user/kabosu11941)
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/iOS-red?      style=flat&logo=Apple&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/Flutter-white?style=flat&logo=Flutter&logoColor=02569B"/>
+<img src="https://img.shields.io/badge/Flutter-skyblue?style=flat&logo=Flutter&logoColor=02569B"/>
 
 </div>
 
