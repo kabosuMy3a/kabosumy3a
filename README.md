@@ -1,6 +1,8 @@
 [![solved](http://mazassumnida.wtf/api/v2/generate_badge?boj=kabosu11941)](https://solved.ac/kabosu11941)  
 [![sov](http://mazandi.herokuapp.com/api?handle=kabosu11941&theme=warm)](https://www.acmicpc.net/user/kabosu11941)
 
+~ Learning iOS ~
+
 <!--
 **kabosuMy3a/kabosumy3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
