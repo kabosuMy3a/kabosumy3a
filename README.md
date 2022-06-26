@@ -3,7 +3,7 @@
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Spring-green?style=flat&logo=&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/Spring-green?style=flat&logo=&logoColor=FFFFFF"/>
 
 <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=Flutter&logoColor=FFFFFF"/>
 
