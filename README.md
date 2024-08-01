@@ -1,4 +1,4 @@
 [![solved](http://mazassumnida.wtf/api/v2/generate_badge?boj=kabosu11941)](https://solved.ac/kabosu11941)  
 
-> _  <
+\>&nbsp;_&nbsp;&nbsp;<
 
